@@ -53,7 +53,6 @@
 ## Folders
 
     → Project Management: Project Brief 
-    → Data: Original and Prepared Data that used for analysis
     → Scripts: Jupyter Notebooks coding that used for the analysis
     → Analysis: Final Reports and Visualizations of analysis
-    → Sent to Client: Final report presented to customer
+    → Sent to Client: Final report presented to the customer
