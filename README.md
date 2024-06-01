@@ -1,4 +1,4 @@
-# Instacart-Grocery-Basket-Analysis_Python
+# Instacart-Insights
 <img width="215" alt="Screenshot 2024-02-29 210932" src="https://github.com/ineshapallage/Instacart-Grocery-Basket-Analysis_Python-/assets/161631865/982db4b4-2d05-4475-99cb-7831096130ae">
 
 
